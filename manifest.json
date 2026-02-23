@@ -1,0 +1,15 @@
+{
+  "name": "King's Group",
+  "short_name": "Kings",
+  "start_url": "/kings-group/",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#0f1115",
+  "icons": [
+    {
+      "src": "crown.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
